@@ -1,0 +1,22 @@
+CNN-Cats-Dogs/
+│
+├── dataset/
+│   ├── train/
+│   │   ├── cats/
+│   │   └── dogs/
+│   └── test/
+│       ├── cats/
+│       └── dogs/
+│
+├── models/
+│   └── cats_dogs_cnn.keras
+│
+├── outputs/
+│   ├── accuracy.png
+│   ├── loss.png
+│   └── confusion_matrix.png
+│
+├── predict.py
+├── train.py
+├── requirements.txt
+└── README.md
