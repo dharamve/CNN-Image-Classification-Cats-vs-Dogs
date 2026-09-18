@@ -1,0 +1,25 @@
+Input Image
+     ↓
+Resize / Normalize
+     ↓
+Conv2D
+     ↓
+MaxPooling2D
+     ↓
+Conv2D
+     ↓
+MaxPooling2D
+     ↓
+Conv2D
+     ↓
+MaxPooling2D
+     ↓
+Flatten
+     ↓
+Dense
+     ↓
+Dropout
+     ↓
+Output
+     ↓
+Cat / Dog
